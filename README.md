@@ -55,7 +55,9 @@ xor(sum,a,b); and(carry,a,b); wire abar; not(abar,a); xor(D,a,b); and(Bo,abar,b)
 Developed by: RegisterNumber:*/R.Sheetal (212223230206)
 
 
-**Output**![Screenshot (2)](https://github.com/Sheetalshee/HALF_ADDER_SUBTRACTOR/assets/144979107/30f129a9-5f3d-4481-82a6-49e4760c564b)![Screenshot (1)](https://github.com/Sheetalshee/HALF_ADDER_SUBTRACTOR/assets/144979107/5584106a-ea20-4f20-8e3e-1072d8ae5b7a)
+**Output**
+
+![Screenshot (2)](https://github.com/Sheetalshee/HALF_ADDER_SUBTRACTOR/assets/144979107/30f129a9-5f3d-4481-82a6-49e4760c564b)![Screenshot (1)](https://github.com/Sheetalshee/HALF_ADDER_SUBTRACTOR/assets/144979107/5584106a-ea20-4f20-8e3e-1072d8ae5b7a)
 
 
 
